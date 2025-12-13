@@ -71,7 +71,7 @@ class ProfileScreen extends StatelessWidget {
 
             // TÊN
             const Text(
-              "Johan Smith",
+              "Duy Tân",
               style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
@@ -80,7 +80,7 @@ class ProfileScreen extends StatelessWidget {
 
             // ĐỊA CHỈ
             const Text(
-              "California, USA",
+              "Việt Nam",
               style: TextStyle(
                 fontSize: 18,
                 color: Colors.grey,
